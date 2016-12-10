@@ -14,7 +14,8 @@
         android:id="@+id/text_hello"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World!"
+        android:textSize="20sp"/>
     <ImageView
         android:id="@+id/face_img"
         android:layout_width="match_parent"

@@ -63,7 +63,7 @@ public class RegistrationIntentService extends IntentService {
                 // Refer to : https://azure.microsoft.com/en-us/documentation/articles/notification-hubs-routing-tag-expressions/
                 // regID = hub.register(token, "tag1,tag2").getRegistrationId();
 
-                resultString = "New NH Registration Successfully - RegId : " + regID;
+                resultString = "Notification Hub Registration Successfully"/* - RegId : " + regID*/;
                 Log.d(TAG, resultString);
 
                 sharedPreferences.edit().putString("registrationID", regID ).apply();
