@@ -5,10 +5,9 @@ Winner of the 2016 Nikolaus Hackathon by Microsoft Student Partners. Face-Pi is 
 ## Try it out
 If you want to try it out, check the Wiki for more information and a step-by-step guide.
 
-## Copyright
-[Julian Martin](https://github.com/fenox)
-
-[Thomas Czogalik](https://github.com/thomcz)
+## Developer
+- [Julian Martin](https://github.com/fenox)
+- [Thomas Czogalik](https://github.com/thomcz)
 
 ## License
 
