@@ -7,6 +7,7 @@ If you want to try it out, check the Wiki for more information and a step-by-ste
 
 ## Copyright
 [Julian Martin](https://github.com/fenox)
+
 [Thomas Czogalik](https://github.com/thomcz)
 
 ## License
