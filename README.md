@@ -1,6 +1,6 @@
 # Face-Pi
 
-Winner of the 2016 Nikolaus Hackathon by Microsoft Student Partners. Face-Pi is an application that allows you to take a picture of a person (for example with your raspberry pi) that enters your home, sent it to your Microsoft Azure server where Microsoft Face Api checks if the person detetcted on the picture is allowed to enter your house and notifies you on your phone if not.
+Winner of the 2016 Nikolaus Hackathon by Microsoft Student Partners. Face-Pi is an application that allows you to take a picture of a person (for example with your raspberry pi) that enters your home, sent it to your Microsoft Azure server where Microsoft Face Api checks if the person detected on the picture is allowed to enter your house and notifies you on your phone if not.
 
 ## Try It Out
 If you want to try it out, check the [wiki](https://github.com/thomcz/face-pi/wiki) for more information and a step-by-step guide.
